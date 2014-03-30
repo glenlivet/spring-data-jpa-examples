@@ -6,3 +6,5 @@ This repository contains a variety of sample projects showing Spring Data JPA fu
 * `java8-auditing` - example of how to use Spring Data JPA auditing with Java 8 date time types.
 * `spring-data-jpa-showcase` - refactoring show case of how to improve a plain-JPA-based persistence layer by using Spring Data JPA (read: removing close to all of the implementation code). Follow the `demo.txt` file for detailed instructions.
 * `spring-data-jpa-interceptors` - Example of how to enrich the repositories with AOP.
+
+test
